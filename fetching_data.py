@@ -7,7 +7,7 @@ from configparser import ConfigParser
 configuration_file = "config.ini"
 configuration = ConfigParser()
 configuration.read(configuration_file)
-api_key = configuration['header_of_config']['api_key']
+api_key = configuration['weather_wizard']['api_key']
 url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
 # function to retrieve data from openweathermap
