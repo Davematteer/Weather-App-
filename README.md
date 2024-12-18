@@ -1,10 +1,10 @@
-# Weather App
+# Weather App 🌤️
 
 ![Image Description](https://github.com/Davematteer/Weather-App-/blob/main/App%20Home%20Screen.png?raw=true)
 
 A Python-based application that provides real-time weather information for specified locations.
 
-## Features
+## Features 🔖
 
 - Fetches current weather data, including temperature, humidity, and conditions.
     
@@ -12,7 +12,7 @@ A Python-based application that provides real-time weather information for speci
     
 - Simple and intuitive user interface.
 
-## Screenshots
+## Screenshots 📷
 
 - ### Sign In Page
   
@@ -50,7 +50,7 @@ A Python-based application that provides real-time weather information for speci
 
 Follow the on-screen instructions to sign up or sign in, and then enter the desired location to retrieve weather information.
 
-## File Structure
+## File Structure 📂
 
     - weatherapp.py: Main application script.
     
@@ -64,6 +64,6 @@ Follow the on-screen instructions to sign up or sign in, and then enter the desi
     
     - registered_users.txt: Stores registered user information.
 
-## License
+## License 📄
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
