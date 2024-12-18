@@ -24,7 +24,7 @@ A Python-based application that provides real-time weather information for speci
 - ### App Home Screen
   ![Image Description](https://github.com/Davematteer/Weather-App-/blob/main/App%20Home%20Screen.png?raw=true)
   
-## Installation
+## Installation ⚙️
 
 - Clone the repository:
 
@@ -42,7 +42,7 @@ A Python-based application that provides real-time weather information for speci
 
       Rename config.ini.example to config.ini and update it with your API keys and other configurations.
 
-## Usage
+## Usage 🔗
 
 - Run the main application script:
 
