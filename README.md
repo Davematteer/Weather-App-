@@ -14,11 +14,15 @@ A Python-based application that provides real-time weather information for speci
 
 ## Screenshots
 
-- App Home Screen
+- ### Sign In Page
+  
+  ![Sign In Page](https://github.com/Davematteer/Weather-App-/blob/main/Sign%20In%20Page%20ScreenShot.png?raw=true)
 
-- Sign In Page
+- ### Sign Up Page
+  ![Sign Up Page](https://github.com/Davematteer/Weather-App-/blob/main/Sign%20Up%20Page%20Screenshot.png?raw=true)
 
-- Sign Up Page
+- ### App Home Screen
+  ![Image Description](https://github.com/Davematteer/Weather-App-/blob/main/App%20Home%20Screen.png?raw=true)
   
 ## Installation
 
