@@ -1,5 +1,7 @@
 # Weather App
 
+![Image Description](https://github.com/Davematteer/Weather-App-/blob/main/App%20Home%20Screen.png?raw=true)
+
 A Python-based application that provides real-time weather information for specified locations.
 
 ## Features
